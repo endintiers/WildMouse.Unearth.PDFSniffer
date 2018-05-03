@@ -16,3 +16,5 @@ c:\results\folder_pageinf.csv and c:\results\folder_imginf.csv.
 
 We then usually upload these files to a database or excel (for small pdf collections) so we can get a statistical view of the
 'problem domain'.
+
+It's single-threaded...meh...it's cpu-bound. Rather than spending time working out how many CPUs there are and dispatching workers etc. I just run several copies on different sub-directories :-). So 5-6 at a time.
