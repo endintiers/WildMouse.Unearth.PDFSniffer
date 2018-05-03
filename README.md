@@ -1,5 +1,5 @@
 # WildMouse.Unearth.PDFSniffer
-A command line tool to analyse (lots of) PDF files.
+A command line tool to analyse (lots of) PDF files. Build it yourself or just download and run PDFSniffer.exe. 
 
 Wild Mouse's [Unearth](https://unearth.ai) cognitive search tool has to ingest lots (millions!) of PDF files.
 
